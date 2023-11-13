@@ -138,38 +138,38 @@ li .btn {
 .slider {
   height: 180px;
   width: 100%;
-  background-image: url(img/slid-1.jpg);
+  background-image: url(slid-1.jpg);
   background-size: 100% 100%;
   animation: changeImg 20s linear infinite;
 }
 
 @keyframes changeImg {
   0% {
-    background-image: url(img/slid-1.jpg);
+    background-image: url(slid-1.jpg);
   }
 
   25% {
-    background-image: url(img/slid-2.jpg);
+    background-image: url(slid-2.jpg);
   }
 
   50% {
-    background-image: url(img/slid-3.png);
+    background-image: url(slid-3.png);
   }
 
   75% {
-    background-image: url(img/slid-4.png);
+    background-image: url(slid-4.png);
   }
 
   100% {
-    background-image: url(img/slid-4.png);
+    background-image: url(slid-4.png);
   }
 
   125% {
-    background-image: url(img/slid-5.5.png);
+    background-image: url(slid-5.5.png);
   }
 
   150% {
-    background-image: url(img/slid-4png);
+    background-image: url(slid-4png);
   }
 }
 
@@ -235,7 +235,7 @@ li .btn {
 }
 
 .Specials-box {
-  background: url(img/sp8.jpg) no-repeat center center;
+  background: url(sp8.jpg) no-repeat center center;
   background-size: cover;
 
   margin-top: 10px;
@@ -246,7 +246,7 @@ li .btn {
 
 }
 .Specials-box2 {
-  background: url(img/sp8.jpg) no-repeat center center;
+  background: url(sp8.jpg) no-repeat center center;
   background-size: cover;
 
   margin-top: 10px;
@@ -390,7 +390,7 @@ li .btn {
 .slider-box{
   height: 280px;
   width: 100vw;
-  background-image: url(img/bg1.jpg) ;
+  background-image: url(bg1.jpg) ;
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
